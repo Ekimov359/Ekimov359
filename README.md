@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ekimov359
+- 👋 Hi, I’m Evgeni Ekimov
 - 👀 I’m interested in C#...
 - 🌱 I’m currently learning C#..
 - 💞️ I’m looking to collaborate on ...ProgramBasics.
